@@ -1,0 +1,15 @@
+.idea/
+.vscode/
+vendor/
+*/vendor/
+*.phpunit.cache/
+*.env
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.trash
